@@ -1,4 +1,39 @@
-# Task Timer - Technical Whitepaper
+# Task Timer Project
+
+## Overview
+A minimalist web application for tracking time spent on tasks with a clean, intuitive interface.
+
+## Features
+
+### Core Timer Functionality
+- Implement start/stop timer for each task
+- Add pause/resume functionality
+- Track elapsed time in real-time
+- Display time in HH:MM:SS format
+
+### Task Management
+- Create and manage tasks
+- View daily and task-specific statistics
+- Support for multiple concurrent tasks
+- Task categorization and tagging
+
+### User Interface
+- Clean, responsive interface
+- Light/dark theme support
+- Real-time updates
+- Intuitive controls
+
+### Backend API
+- FastAPI implementation
+- SQLAlchemy integration
+- SQLite database
+- RESTful endpoints
+
+### Testing
+- Unit tests for all components
+- Integration tests for API
+- Frontend component testing
+- End-to-end testing
 
 ## Architecture Overview
 
